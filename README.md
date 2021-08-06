@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there, I'm LastDemon99, a hobby programmer
 
-<!--
-**LastDemon99/LastDemon99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👻 Sometimes I write code to pass the time and learn something new.
+- 💀 Oh, I am also extremely vague and lazy
 
-Here are some ideas to get you started:
+I have developed some scripts for TeknoMW3 servers, administration scripts and game modes, and I have made some randoms code for learning only.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact with me
+Discord UserName: |LastDemon99|#8546
+
+[Youtube - Showcase Scripts](https://www.youtube.com/channel/UCbF4X_uUAJLMGqijksgkwFQ "TeknoRandomScripts Channel")
+
+### Languages
+<p align="left">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+</p>
