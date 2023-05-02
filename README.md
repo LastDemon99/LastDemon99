@@ -3,12 +3,12 @@
 - 👻 Sometimes I write code to pass the time and learn something new.
 - 💀 Oh, I am also extremely vague and lazy
 
-I have developed some scripts for TeknoMW3 servers, administration scripts and game modes, and I have made some randoms code for learning only.
+I have developed some scripts for MW3 servers, administration scripts and game modes, and I have made some randoms code for learning only.
 
 ### Contact with me
 Discord UserName: |LastDemon99|#8546
 
-[Youtube - Showcase Scripts](https://www.youtube.com/channel/UCbF4X_uUAJLMGqijksgkwFQ "TeknoRandomScripts Channel")
+[Youtube - Showcase Scripts](https://www.youtube.com/channel/UCbF4X_uUAJLMGqijksgkwFQ](https://www.youtube.com/@LB_RandomCodes "LB_RandomCodes")
 
 ### Languages
 <p align="left">
